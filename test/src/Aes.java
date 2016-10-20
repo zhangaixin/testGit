@@ -13,7 +13,7 @@ import javax.crypto.NoSuchPaddingException;
 import javax.crypto.spec.SecretKeySpec;
 
 public class Aes {
-	static final String algorithmStr = "AES/ECB/PKCS5Padding";
+	static final String algorithmStr = "AES/ECB/PKCS5Padding"; 
 	 
     private static final Object TAG = "AES";
  
